@@ -1,0 +1,16 @@
+{
+  "name": "tablamultiplicar",
+  "version": "0.0.1",
+  "description": "tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node app.js  --base=3 --limite=10"
+  },
+  "author": "dgc7",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}

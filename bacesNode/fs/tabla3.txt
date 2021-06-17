@@ -1,0 +1,11 @@
+3 por 0 es igual a  0
+3 por 1 es igual a  3
+3 por 2 es igual a  6
+3 por 3 es igual a  9
+3 por 4 es igual a  12
+3 por 5 es igual a  15
+3 por 6 es igual a  18
+3 por 7 es igual a  21
+3 por 8 es igual a  24
+3 por 9 es igual a  27
+null

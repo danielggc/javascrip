@@ -1,0 +1,21 @@
+7 por  0 es igual [32m 0
+[39m7 por  1 es igual [32m 7
+[39m7 por  2 es igual [32m 14
+[39m7 por  3 es igual [32m 21
+[39m7 por  4 es igual [32m 28
+[39m7 por  5 es igual [32m 35
+[39m7 por  6 es igual [32m 42
+[39m7 por  7 es igual [32m 49
+[39m7 por  8 es igual [32m 56
+[39m7 por  9 es igual [32m 63
+[39m7 por  10 es igual [32m 70
+[39m7 por  11 es igual [32m 77
+[39m7 por  12 es igual [32m 84
+[39m7 por  13 es igual [32m 91
+[39m7 por  14 es igual [32m 98
+[39m7 por  15 es igual [32m 105
+[39m7 por  16 es igual [32m 112
+[39m7 por  17 es igual [32m 119
+[39m7 por  18 es igual [32m 126
+[39m7 por  19 es igual [32m 133
+[39mnull

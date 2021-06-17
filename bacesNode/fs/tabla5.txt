@@ -1,0 +1,12 @@
+5 por 0 es igual a  0
+5 por 1 es igual a  5
+5 por 2 es igual a  10
+5 por 3 es igual a  15
+5 por 4 es igual a  20
+5 por 5 es igual a  25
+5 por 6 es igual a  30
+5 por 7 es igual a  35
+5 por 8 es igual a  40
+5 por 9 es igual a  45
+5 por 10 es igual a  50
+null
